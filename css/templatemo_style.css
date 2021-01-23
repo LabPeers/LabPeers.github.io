@@ -85,7 +85,7 @@ body
 /* end templatemo navigation */
 
 /* start templatemo header background slideshow */
-#home { padding-top: 65px; }
+#home { padding-top: 0px; }
 .flexslider {
 	margin: 0 0 60px;
 	background: #fff;
@@ -229,47 +229,6 @@ body
 }
 #about .progress .progress-bar-success { background: #ffa400; }
 /* end templatemo about */
-
-/* start templatemo team */
-#team
-{
-	background: #F9F9F9;
-	border-top: 1px solid #f0f0f0;
-	border-bottom: 1px solid #f0f0f0;
-	padding: 60px 0 60px 0;
-}
-#team .col-md-3 { margin-bottom: 20px; }
-#team h2
-{
-	font-weight: 400;
-	padding: 0 0 20px 0;
-}
-#team h3
-{
-	background: #FFF;
-	color: #ffa400;
-	font-weight: 600;
-	padding: 10px;
-}
-#team img
-{
-	cursor: pointer;
-	display: inline-block;
-	margin-top: 60px;
-	margin-bottom: 10px;
-	position: relative;
-	-webkit-transition: all 0.4s ease;
-	transition: all 0.4s ease;
-}
-#team img:hover
-{
-	border-radius: 50%;
-	-webkit-transform: scale(0.9);
-	-ms-transform: scale(0.9);
-	transform: scale(0.9);
-	opacity: 0.7;
-}
-/* end templatemo team */
 
 /* start templatemo portfolio */
 #portfolio
