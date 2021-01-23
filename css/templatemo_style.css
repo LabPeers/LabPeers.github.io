@@ -85,7 +85,7 @@ body
 /* end templatemo navigation */
 
 /* start templatemo header background slideshow */
-#home { padding-top: 0px; }
+#home { padding-top: 1px; }
 .flexslider {
 	margin: 0 0 60px;
 	background: #fff;
